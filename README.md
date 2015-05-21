@@ -1,3 +1,4 @@
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/7b03bd73-e269-49b5-af50-a3b0579814be/big.png)](https://insight.sensiolabs.com/projects/7b03bd73-e269-49b5-af50-a3b0579814be)
 DoctrineFieldTypes
 ==================
 
