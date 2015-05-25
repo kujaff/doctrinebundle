@@ -5,7 +5,7 @@ Composer
 # composer.json
 {
     "require": {
-        "kujaff/doctrinefieldtypes": "2.*"
+        "kujaff/doctrinefieldtypes": "2.0.*"
     }
 }
 ```
