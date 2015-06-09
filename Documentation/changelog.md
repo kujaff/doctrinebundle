@@ -23,3 +23,5 @@ master
 
 - [[base64](Base64.md)] Add Base64 type
 - [[primarydatetime](PrimaryDateTime.md)] Add PrimaryDateTime type
+
+|Back to index](../README.md)
