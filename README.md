@@ -9,6 +9,8 @@ Installation
 
 [Installation](Documentation/Installation.md)
 
+[Changelog](Documentation/Changelog.md)
+
 Field types
 -----------
 
